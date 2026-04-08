@@ -21,8 +21,6 @@ Execute o programa:
 python main.py
 📸 Demonstração
 
-(Adicione aqui prints do seu programa rodando)
-
 📚 Aprendizados
 
 Este projeto foi importante para desenvolver habilidades como:
